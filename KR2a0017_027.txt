@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:20:20.679551
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR2a0017_WYG_027-1a>¶
 欽定四庫全書¶
 　南齊書卷二十七¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　南齊書卷二十七¶
+#+PROPERTY: JUAN 卷二十七考證
 <pb:KR2a0017_WYG_027-19a>¶
 　南齊書卷二十七考證¶
 劉懐珍傳亾命司馬順則聚黨東揚州○(臣承蒼/)按宋¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　南齊書卷二十七考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:20:20.418604
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0017_WYG_014-1a>¶
 欽定四庫全書¶
 　南齊書卷十四¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　南齊書卷十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR2a0017_WYG_014-30a>¶
 　南齊書卷十四考證¶
 州郡志上揚州○(臣宗萬/)按漢始置揚州治在建康臺¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　南齊書卷十四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:20:20.818390
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR2a0017_WYG_036-1a>¶
 欽定四庫全書¶
 　南齊書卷三十六¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　南齊書卷三十六¶
+#+PROPERTY: JUAN 卷三十六考證
 <pb:KR2a0017_WYG_036-12a>¶
 　南齊書卷三十六考證¶
 史臣賛超宗藴文粗構餘芬○諸本同(臣承蒼/)按粗疑¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　南齊書卷三十六考證¶
-

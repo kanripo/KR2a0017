@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:20:20.251774
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR2a0017_WYG_005-1a>¶
 欽定四庫全書¶
 　南齊書卷五¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　南齊書卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR2a0017_WYG_005-7a>¶
 　南齊書卷五考證¶
 海陵王本紀延興元年○是年即隆昌元年以廢立随¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　南齊書卷五考證¶
-

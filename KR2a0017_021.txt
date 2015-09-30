@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:20:20.556938
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR2a0017_WYG_021-1a>¶
 欽定四庫全書¶
 　南齊書卷二十一¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　南齊書卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR2a0017_WYG_021-9a>¶
 　南齊書卷二十一考證¶
 文惠太子傳我雖不行内外直防及諸門甲兵悉令長¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　南齊書卷二十一考證¶
-

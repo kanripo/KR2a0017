@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 54
+#+DATE: 2015-08-24 22:20:21.156434
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十四
 <pb:KR2a0017_WYG_054-1a>¶
 欽定四庫全書¶
 　南齊書卷五十四¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　南齊書卷五十四¶
+#+PROPERTY: JUAN 卷五十四考證
 <pb:KR2a0017_WYG_054-29a>¶
 　南齊書卷五十四考證¶
 顧歡傳歡早孤毎讀詩至哀哀父母輙執書慟泣學者¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　南齊書卷五十四考證¶
-

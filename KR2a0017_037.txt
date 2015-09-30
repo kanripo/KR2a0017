@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:20:20.830594
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十七
 <pb:KR2a0017_WYG_037-1a>¶
 欽定四庫全書¶
 　南齊書卷三十七¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　南齊書卷三十七¶
+#+PROPERTY: JUAN 卷三十七考證
 <pb:KR2a0017_WYG_037-15a>¶
 　南齊書卷三十七考證¶
 劉悛傳劉悛○(臣祖庚/)按南史云悛本名忱宋明帝多¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　南齊書卷三十七考證¶
-

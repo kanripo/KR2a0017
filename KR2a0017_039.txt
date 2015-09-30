@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:20:20.872896
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR2a0017_WYG_039-1a>¶
 欽定四庫全書¶
 　南齊書卷三十九¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　南齊書卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR2a0017_WYG_039-15a>¶
 　南齊書卷三十九考證¶
 陸澄傳易體微逺實貫群籍施孟異聞周韓殊㫖豈可¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　南齊書卷三十九考證¶
-

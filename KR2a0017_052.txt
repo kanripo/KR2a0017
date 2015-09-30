@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:20:21.106259
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十二
 <pb:KR2a0017_WYG_052-1a>¶
 欽定四庫全書¶
 　南齊書卷五十二¶
@@ -416,6 +418,7 @@
 勝其辭就此求文終然翳奪故兼之者鮮矣¶
 贊曰學亞生知多識前仁文成筆下芬藻麗春¶
 　南齊書卷五十二¶
+#+PROPERTY: JUAN 卷五十二考證
 <pb:KR2a0017_WYG_052-24a>¶
 　南齊書卷五十二考證¶
 卞彬傳虱有諺言○南史言作云¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　南齊書卷五十二考證¶
-

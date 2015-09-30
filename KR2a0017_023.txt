@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:20:20.587935
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR2a0017_WYG_023-1a>¶
 欽定四庫全書¶
 　　南齊書卷二十三¶
@@ -326,6 +328,7 @@
 世貽議匪躬文憲濟濟輔相之體稱述覇王綱維典禮¶
 期寄兩朝綢繆宫陛¶
 　南齊書卷二十三¶
+#+PROPERTY: JUAN 卷二十三考證
 <pb:KR2a0017_WYG_023-19a>¶
 　南齊書卷二十三考證¶
 褚淵傳帝在藩與淵以風素相善○風汲古閣本作夙¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　南齊書卷二十三考證¶
-

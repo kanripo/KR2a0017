@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:20:20.178405
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR2a0017_WYG_001-1a>¶
 欽定四庫全書¶
 　南齊書卷一¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　南齊書卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR2a0017_WYG_001-32a>¶
 　南齊書卷一考證¶
 髙帝夲紀上漢相國蕭何二十四世孫也○(臣宗萬/)按¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　南齊書卷一考證¶
-

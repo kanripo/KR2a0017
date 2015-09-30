@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 46
+#+DATE: 2015-08-24 22:20:21.000173
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十六
 <pb:KR2a0017_WYG_046-1a>¶
 欽定四庫全書¶
 　南齊書卷四十六¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　南齊書卷四十六¶
+#+PROPERTY: JUAN 卷四十六考證
 <pb:KR2a0017_WYG_046-18a>¶
 　南齊書卷四十六考證¶
 王秀之傳太尉從祖兄也○(臣承蒼/)按太尉下當有儉¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　南齊書卷四十六考證¶
-

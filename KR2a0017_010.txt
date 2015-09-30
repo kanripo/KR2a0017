@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:20:20.329786
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0017_WYG_010-1a>¶
 欽定四庫全書¶
 　南齊書卷十¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　南齊書卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0017_WYG_010-12a>¶
 　南齊書卷十考證¶
 禮志下鄭射王賀○(臣祖庚/)按為鄭𤣥射慈王肅賀循¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　南齊書卷十考證¶
-

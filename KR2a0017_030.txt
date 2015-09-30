@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:20:20.739578
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR2a0017_WYG_030-1a>¶
 欽定四庫全書¶
 　南齊書卷三十¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　南齊書卷三十¶
+#+PROPERTY: JUAN 卷三十考證
 <pb:KR2a0017_WYG_030-16a>¶
 　南齊書卷三十考證¶
 戴僧靜傳僧靜手斬粲○(臣祖庚/)按南史袁粲傳僧靜¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　南齊書卷三十考證¶
-

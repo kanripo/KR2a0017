@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:20:20.296072
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0017_WYG_008-1a>¶
 欽定四庫全書¶
 　南齊書卷八¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　南齊書卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR2a0017_WYG_008-7a>¶
 　南齊書卷八考證¶
 和帝本紀有司奏封庶人寳卷為零陽侯○零陽南史¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　南齊書卷八考證¶
-

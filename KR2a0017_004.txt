@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南齊書
-#+DATE: 2015-09-23 09:41:43
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:20:20.234231
+#+PROPERTY: ID KR2a0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0017_WYG_004-1a>¶
 欽定四庫全書¶
 　南齊書卷四¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　南齊書卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0017_WYG_004-9a>¶
 　南齊書卷四考證¶
 鬱林王夲紀出西弄○(臣祖庚/)按通鑑注云此延徳殿¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　南齊書卷四考證¶
-
